@@ -1,0 +1,6 @@
+@charset 'utf-8';
+
+.subDisplay{text-align:center;}
+.subDisplay:last-child{margin-bottom:400px;}
+.sizeGuide{margin:100px 0;}
+iframe{margin-top:100px;}
